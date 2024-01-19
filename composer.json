@@ -1,0 +1,20 @@
+{
+    "name": "hospital/ot",
+    "description": "this is for demo",
+    "type": "library",
+    "require": {
+        "php": "^8.2"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Hospital\\Ot\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Pooja Kumari",
+            "email": "pooja.kumari@apstia.com"
+        }
+    ]
+}
